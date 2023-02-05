@@ -13,4 +13,4 @@ A live demo of the front-end code can be accessed.
 ## AWS Endpoint
 
 The information of the lesson is retrieved from the following AWS route:
-(https://bookingapp-env.eba-7hxzavi9.eu-west-2.elasticbeanstalk.com/)
+(https://bookingapp-env.eba-7hxzavi9.eu-west-2.elasticbeanstalk.com/collections/lessons)
