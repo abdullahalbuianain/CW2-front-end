@@ -12,7 +12,6 @@ var webstore = new Vue({
     },
 
     created: function() {
-        //fetch("http://localhost:2500/collections/lessons").then(
         fetch("https://bookingapp-env.eba-7hxzavi9.eu-west-2.elasticbeanstalk.com/collections/lessons").then(
             function(response) {
                 response.json().then(
